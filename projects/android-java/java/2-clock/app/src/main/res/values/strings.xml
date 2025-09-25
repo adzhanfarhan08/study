@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="date">Tanggal</string>
+    <string name="time">00:00:00</string>
+</resources>
